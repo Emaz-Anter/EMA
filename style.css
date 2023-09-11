@@ -1,12 +1,12 @@
 h1 {
   font-size: 55px;
   text-align: center;
-  color: turquoise;
+  color: black;
 }
 
 h2 {
   font-size: 40px;
-  color: teal;
+  color: black;
 }
 
 p {
@@ -46,7 +46,7 @@ ol {
 
 hr {
   height: 5px;
-  background-color: teal;
+  background-color: green;
 }
 
 #ws {
