@@ -1,12 +1,12 @@
 h1 {
   font-size: 55px;
   text-align: center;
-  color: orange;
+  color: turquoise;
 }
 
 h2 {
   font-size: 40px;
-  color: orange;
+  color: teal;
 }
 
 p {
@@ -36,17 +36,17 @@ p {
 
 ul {
   font-size: 35px;
-  color: blue;
+  color: darkblue;
 }
 
 ol {
   font-size: 35px;
-  color: white;
+  color: lightblue;
 }
 
 hr {
   height: 5px;
-  background-color: red;
+  background-color: teal;
 }
 
 #ws {
@@ -71,7 +71,7 @@ hr {
 }
 
 body {
-  background-color: lightgreen;
+  background-color: blue;
 }
 
 html {
