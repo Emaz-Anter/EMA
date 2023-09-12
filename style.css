@@ -36,17 +36,17 @@ p {
 
 ul {
   font-size: 35px;
-  color: darkblue;
+  color: black;
 }
 
 ol {
   font-size: 35px;
-  color: lightblue;
+  color: black;
 }
 
 hr {
   height: 5px;
-  background-color: green;
+  background-color: black;
 }
 
 #ws {
@@ -71,7 +71,7 @@ hr {
 }
 
 body {
-  background-color: blue;
+  background-color: white;
 }
 
 html {
