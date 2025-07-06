@@ -1,0 +1,38 @@
+<html>
+
+<head>
+  <title>EMA Records</title>
+  <meta name="author" content="Lem O Nade">
+  <meta name="description" content="The official home for all Emazing Antertainment content!">
+  <meta name="keywords" content="Streaming Service", "Gills are things fish have", "EMA Records", "epicz", "cac0demon">
+  <meta name="generator" content="codepen.io">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+  <link rel="icon" type="image/x-icon" href="./images/favicon.ico">
+</head>
+
+<body>
+  
+  <a href=index.html>Home</a>
+  <h1>Watch Johnny Coal's Mysterious Builds</h1>
+  <hr>
+  <h2>Rap</h2>
+  <a href=https://drive.google.com/file/d/12A5p30zcsuHy8xP1eAlbCrqJkJxNikIh/view?t=6>Gills are things fish have - Lim E Ade, Lem O Nade - Official Music Video - EMA Records</a>
+  <hr>
+  <h2>Country</h2>
+  <p>Nothing yet!</p>
+  <hr>
+  <h2>Rock</h2>
+  <p>Nothing yet!</p>
+  <hr>
+  <h2>More songs coming soon.<h2>
+      <hr>
+      <p>Get In Touch</p>
+      <ol>
+        <li>Email: epiczero444@gmail.com</li>
+
+      </ol>
+      <hr>
+</body>
+
+</html>
